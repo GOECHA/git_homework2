@@ -9,3 +9,9 @@
 
 
 #shout out to josh medina for starting turing at the same time as me. he is always a helping hand and an ear to shout at.
+
+#finally figured it out. . .
+#git init works within a directory
+# ls -a shows .git
+
+#My new thought
